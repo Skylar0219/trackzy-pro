@@ -1,7 +1,0 @@
-cd /path/to/trackzy-pro-github
-
-git init
-git remote add origin https://Skylar0219:ghp_YourTokenHere@github.com/Skylar0219/trackzy-pro.git
-git add .
-git commit -m "Initial commit: Trackzy Pro SaaS App"
-git push -u origin main
